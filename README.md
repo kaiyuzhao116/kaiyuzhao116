@@ -33,10 +33,6 @@
 | 仓库 | 说明 |
 |---|---|
 | [`social_school`](https://github.com/kaiyuzhao116/social_school) | 校园社交 / 二手交易 |
-| [`instant`](https://github.com/kaiyuzhao116/instant) | 即时通讯练习 |
-| [`strategy-chain-demo`](https://github.com/kaiyuzhao116/strategy-chain-demo) | 策略链设计模式演示 |
-| [`mybatisplus_demo`](https://github.com/kaiyuzhao116/mybatisplus_demo) | MyBatis-Plus 实践 |
-| [`tao-loop-demo`](https://github.com/kaiyuzhao116/tao-loop-demo) | 前端练习 |
 
 ---
 
