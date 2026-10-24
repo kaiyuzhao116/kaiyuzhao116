@@ -4,7 +4,7 @@
 
 ## 🚀 代表作
 
-### [`spring-cloud-im`](https://github.com/kaiyuzhao116/spring-cloud-im) — 一套真正跑通的微服务即时通讯系统
+### [`spring-cloud-im`](https://github.com/kaiyuzhao116/spring-cloud-im) — 一套即时通讯系统
 
 <table>
 <tr><td width="50%" valign="top">
